@@ -6,8 +6,10 @@
     font-size: 40px;
     border-bottom: 4px solid black;
     width: 50%;
+    color: white;
 }
 
 .list {
     font-size: 25px;
+    color: white;
 }
